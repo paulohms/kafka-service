@@ -1,0 +1,15 @@
+{
+  "type": "record",
+  "name": "Order",
+  "namespace": "br.com.kafkaservice.model",
+  "fields": [
+    {
+      "name": "name",
+      "type": "string"
+    },
+    {
+      "name": "address",
+      "type": "string"
+    }
+  ]
+}
